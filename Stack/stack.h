@@ -1,4 +1,4 @@
-// stack.h -- class definition for the stack ADT
+// stack.h -- class definition for the stack ADT another go at this fork thing
 #ifndef STACK_H_
 #define STACK_H_
 
